@@ -1,1 +1,1 @@
-# Class-attendence-impact-on-SAT
+# This analysis looks at the impact of student's attendance on their SAT score. We can see how the SAT score drops as class attendance drops and how other impacts such as home behavior and sleeping behavior impacts SAT score.
